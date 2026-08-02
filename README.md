@@ -64,7 +64,7 @@ streamlit run frontend.py
 
 ### Swagger UI
 
-![Swagger UI](swagger-ui.png)
+![Swagger UI](images/swagger-ui.png)
 
 ---
 
@@ -72,19 +72,19 @@ streamlit run frontend.py
 
 ### Login Page
 
-![Login](login-page.png)
+![Login](images/login-page.png)
 
 ### Feed
 
-![Feed](feed-page.png)
+![Feed](images/feed-page.png)
 
 ### Create Post
 
-![Create Post](create-post.png)
+![Create Post](images/create-post.png)
 
 ### Uploaded Post
 
-![Uploaded Post](post-feed.png
+![Uploaded Post](images/post-feed.png)
 
 
 ---
