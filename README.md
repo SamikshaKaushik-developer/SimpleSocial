@@ -62,11 +62,29 @@ streamlit run frontend.py
 ---
 ## 📖 API Documentation
 
-The backend provides REST APIs for authentication and user management.
+### Swagger UI
+
+![Swagger UI](swagger-ui.png)
 
 ---
 
-### Images
+## 📸 Application Screenshots
+
+### Login Page
+
+![Login](login-page.png)
+
+### Feed
+
+![Feed](feed-page.png)
+
+### Create Post
+
+![Create Post](create-post.png)
+
+### Uploaded Post
+
+![Uploaded Post](post-feed.png
 
 
 ---
