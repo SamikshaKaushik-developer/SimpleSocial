@@ -65,7 +65,9 @@ streamlit run frontend.py
 
 Watch the project demo here:
 
-[▶️ Watch Demo on YouTube]([(https://youtu.be/l-nbuvkBM6k?si=vlkURCuLi7vizHDk]))
+[▶️ Watch Demo on YouTube])
+
+[(https://youtu.be/l-nbuvkBM6k?si=vlkURCuLi7vizHDk]
 
 ---
 
