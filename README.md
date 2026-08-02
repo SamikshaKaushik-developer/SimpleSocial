@@ -8,6 +8,7 @@ SQLAlchemy and Streamlit.
 ## 🚀 Features
 
 - User Registration
+- ImageKit.io Integration
 - User Login (JWT Authentication)
 - Secure Authentication
 - Upload Images and Videos
