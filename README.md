@@ -8,15 +8,14 @@ SQLAlchemy and Streamlit.
 ## 🚀 Features
 
 - User Registration
-- User Login
-- Create Posts
-- Upload Images
-- Like Posts
-- Comment System
-- User Profiles
-- Feed
+- User Login (JWT Authentication)
 - Secure Authentication
-
+- Upload Images and Videos
+- Media storage using ImageKit.io
+- Feed displaying uploaded media
+- FastAPI REST APIs
+- SQLAlchemy ORM integration
+- Streamlit frontend
 ---
 
 ## 🛠 Tech Stack
@@ -98,17 +97,6 @@ Watch the project demo here:
 (https://youtu.be/l-nbuvkBM6k?si=vlkURCuLi7vizHDk)
 
 ---
-
-## Future Improvements
-
-- Notifications
-- Follow system
-- Messaging
-- JWT Authentication
-- Dark Mode
-
----
-
 ## Learning Outcomes
 
 Built this project to learn
@@ -120,6 +108,10 @@ Built this project to learn
 - Authentication
 - Streamlit Integration
 
+---
+## Media Storage
+
+Images and videos are uploaded using **ImageKit.io**, while the backend built with FastAPI handles authentication, media metadata, and feed management.
 ---
 
 ## Author
