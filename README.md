@@ -19,19 +19,19 @@ SQLAlchemy and Streamlit.
 - Streamlit frontend
 ---
 ## Architecture
-Streamlit Frontend
-        │
-        ▼
-FastAPI REST API
-        │
-        ▼
-SQLAlchemy ORM
-        │
-        ▼
-SQLite Database
-        │
-        ▼
-ImageKit.io
+```text
+            Streamlit Frontend
+                    │
+                    ▼
+          FastAPI REST API
+                    │
+                    ▼
+          SQLAlchemy ORM
+                    │
+          ┌─────────┴─────────┐
+          ▼                   ▼
+    SQLite Database      ImageKit.io
+```
 
 ---
 ## 🛠 Tech Stack
