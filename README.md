@@ -60,6 +60,16 @@ uvicorn main:app --reload
 streamlit run frontend.py
 
 ---
+## 📖 API Documentation
+
+The backend provides REST APIs for authentication and user management.
+
+---
+
+### Images
+
+
+---
 
 ## 🎥 Demo Video
 
