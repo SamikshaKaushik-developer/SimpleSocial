@@ -112,6 +112,7 @@ Built this project to learn
 ## Media Storage
 
 Images and videos are uploaded using **ImageKit.io**, while the backend built with FastAPI handles authentication, media metadata, and feed management.
+
 ---
 
 ## Author
