@@ -18,7 +18,22 @@ SQLAlchemy and Streamlit.
 - SQLAlchemy ORM integration
 - Streamlit frontend
 ---
+## Architecture
+Streamlit Frontend
+        │
+        ▼
+FastAPI REST API
+        │
+        ▼
+SQLAlchemy ORM
+        │
+        ▼
+SQLite Database
+        │
+        ▼
+ImageKit.io
 
+---
 ## 🛠 Tech Stack
 
 Backend
